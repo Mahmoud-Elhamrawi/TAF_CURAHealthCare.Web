@@ -1,0 +1,11 @@
+{
+  "validLoginData": {
+    "userName": "John Doe",
+    "password": "ThisIsNotAPassword"
+  },
+  "inValidLoginData": {
+    "userName": "John Doe",
+    "password": "wrong password"
+  }
+
+}
